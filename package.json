@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stsmith313/Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.11.0"
+    "node-sass": "^4.13.1"
   }
 }
